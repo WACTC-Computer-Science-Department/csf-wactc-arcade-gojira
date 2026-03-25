@@ -1,8 +1,8 @@
 # Team Game — Arrays & Loops
 
 ## Team
-- Member 1: [Name] — [assigned files]
-- Member 2: [Name] — [assigned files]
+- Member 1: [Trevor Aubin] — [assigned files]
+- Member 2: [Micheal Mack] — [assigned files]
 - Member 3: [Name] — [assigned files]
 
 ## Game: [Your Game Name]
