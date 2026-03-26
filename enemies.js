@@ -4,30 +4,18 @@
 // ============================================
 
 // Enemy array — each enemy is an object: { x, y, speedX, speedY, size }
-let enemies = [];
+let blocks = [];
 let spawnTimer = 0;
 
 // TODO: Add any additional enemy variables you need
 
-function resetEnemies() {
-  enemies = [];
+function resetblocks() {
+  blocks = [];
   spawnTimer = 0;
   // TODO: Reset any additional enemy variables
 }
 
-function spawnEnemy() {
-  // TODO: Create a new enemy object and push it into the enemies array
-  // Example:
-  // enemies.push({
-  //   x: random(width),
-  //   y: -ENEMY_SIZE,
-  //   speedX: 0,
-  //   speedY: ENEMY_SPEED,
-  //   size: ENEMY_SIZE
-  // });
-}
-
-function updateEnemies() {
+function updateblocks() {
   // Spawn new enemies on a timer
   spawnTimer++;
   if (spawnTimer >= ENEMY_SPAWN_RATE) {
