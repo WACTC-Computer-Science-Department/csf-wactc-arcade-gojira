@@ -3,7 +3,7 @@
 ## Team
 - Member 1: [Trevor Aubin] — [assigned files]
 - Member 2: [Micheal Mack] — [assigned files]
-- Member 3: [Name] — [assigned files]
+- Member 3: [Jeremy] — [assigned files]
 
 ## Game: [Your Game Name]
 [One sentence describing your game]
