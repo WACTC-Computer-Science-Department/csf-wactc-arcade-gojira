@@ -1,12 +1,12 @@
-fff                        // ============================================
+// ============================================
 // PLAYER — Your name here!
 // This file manages the player character.
 // ============================================
 
 // Player variables
-let playerX;
-let playerY;
-let playerLives;
+let playerX = CANVAS_WIDTH / 2;
+let playerY = (CANVAS_HEIGHT / 2) - 200;
+let playerLives = 3;
 
 // TODO: Add any additional player variables you need
 // Examples: playerVelX, playerVelY, playerDirection, etc.
